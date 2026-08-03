@@ -1734,10 +1734,7 @@ song(
     "Shawn Mendes & Camila Cabello",
     "Am",
     r"""
-[Вступление]
-Am | F | C | G
-
-[Куплет 1]
+[Припев — Camila]
 Am
 I love it when you call me señorita
 F
@@ -1747,39 +1744,105 @@ But every touch is ooh-la-la-la
 G
 It's true, la-la-la
 Am
-Ooh, I should be running
-F
+Ooh, I should be runnin'
+F                    C  G
 Ooh, you keep me coming for ya
 
-[Припев]
-Am                         F
+[Куплет 1 — Shawn]
+Am                F
 Land in Miami, the air was hot from summer rain
 C                              G
-Sweat dripping off me, before I even knew her name, la-la-la
-Am
-It felt like ooh-la-la-la
-F
-Yeah, no
+Sweat drippin' off me before I even knew her name, la-la-la
+Am                         F
+It felt like ooh-la-la-la, yeah, no
 C                              G
 Sapphire moonlight, we danced for hours in the sand
 Am
 Tequila sunrise, her body fit right in my hands, la-la-la
-F
+F                         C  G
 It felt like ooh-la-la-la, yeah
 
-[Куплет 2]
-Am F C G
-I love it when you call me señorita…
-I wish I could pretend I didn't need ya…
-
-[Бридж]
-Am              F
-Ooh, I should be running
-C               G
+[Припев — Camila & Shawn]
+Am
+I love it when you call me señorita
+F
+I wish I could pretend I didn't need ya
+C
+But every touch is ooh-la-la-la
+G
+It's true, la-la-la
+Am
+Ooh, I should be runnin'
+F
+Ooh, you know I love it when you call me señorita
+Am
+I wish it wasn't so damn hard to leave ya
+F
+But every touch is ooh-la-la-la
+C
+It's true, la-la-la
+G
+Ooh, I should be runnin'
+Am                   F  C  G
 Ooh, you keep me coming for ya
 
-[Припев]
-Am F C G ×2
+[Куплет 2 — Camila]
+Am                     F
+Locked in the hotel, there's just some things that never change
+C                              G
+You say we're just friends, but friends don't know the way you taste, la-la-la
+Am
+'Cause you know it's been a long time coming
+F
+Don't ya let me fall, oh
+C
+Ooh, when your lips undress me, hooked on your tongue
+G
+Ooh, love, your kiss is deadly, don't stop
+
+[Припев — Camila & Shawn]
+Am
+I love it when you call me señorita
+F
+I wish I could pretend I didn't need ya
+C
+But every touch is ooh-la-la-la
+G
+It's true, la-la-la
+Am
+Ooh, I should be runnin'
+F
+Ooh, you know I love it when you call me señorita
+Am
+I wish it wasn't so damn hard to leave ya
+F
+But every touch is ooh-la-la-la
+C
+It's true, la-la-la
+G
+Ooh, I should be runnin'
+Am                   F  C  G
+Ooh, you keep me coming for ya
+
+[Бридж / Outro]
+Am                         F
+All along I've been coming for ya
+C                              G
+And I hope it meant something to you
+Am                         F
+Call my name, I'll be coming for ya
+C
+Coming for ya, coming for ya, coming for ya
+G
+For ya
+Am
+For ya (ooh, she loves it when I come)
+F
+For ya
+Am
+Ooh, I should be runnin'
+F                    C  G
+Ooh, you keep me coming for ya
 """,
     note="Упрощённый гитарный круг Am–F–C–G",
 )
