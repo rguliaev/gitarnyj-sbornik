@@ -1,0 +1,67 @@
+ГИТАРНЫЙ СБОРНИК — оглавление
+Слова и аккорды. Структура: Куплет / Припев / Бридж
+Где тональность не указана — оригинальная.
+
+------------------------------------------------------------
+01. [Gm ] Капала вода — Zoloto
+     → 01-zoloto-kapala-voda-Gm.txt
+02. [C  ] Непроизошло — ZOLOTO
+     → 02-zoloto-neproizoshlo-C.txt
+03. [A  ] Любите, девушки — Браво
+     → 03-bravo-lyubite-devushki-A.txt
+04. [Cm ] Не болей — Баста & Zivert
+     → 04-basta-zivert-ne-boley-Cm.txt
+05. [G  ] На сиреневой луне — Леонид Агутин
+     → 05-agutin-na-sirenevoy-lune-G.txt
+06. [Am ] Хоп хэй лалалей — Леонид Агутин
+     → 06-agutin-hop-hey-lalaley-Am.txt
+07. [Bm ] Остров — Леонид Агутин
+     → 07-agutin-ostrov-Bm.txt
+08. [Cm ] Весна — 5'nizza (Андрей)
+     → 08-5nizza-vesna-Cm.txt
+09. [Cm ] Стань — Макс Корж
+     → 09-maks-korzh-stan-Cm.txt
+10. [Em ] В городе лето — Uma2rman
+     → 10-uma2rman-v-gorode-leto-Em.txt
+11. [F#m] Кустурица — Братья Грим
+     → 11-bratya-grim-kusturica-F#m.txt
+12. [G  ] Это всё, что останется после меня — ДДТ
+     → 12-ddt-eto-vsyo-G.txt
+13. [Dm ] Боже, какой пустяк — Александр Иванов
+     → 13-ivanov-bozhe-kakoy-pustyak-Dm.txt
+14. [A#m] Ты не верь слезам — Шура
+     → 14-shura-ty-ne-ver-slezam-A#m.txt
+15. [Dm ] Ночь — Андрей Губин
+     → 15-gubin-noch-Dm.txt
+16. [Dm ] Такие девушки (как звёзды) — Андрей Губин
+     → 16-gubin-takie-devushki-Dm.txt
+17. [Cm ] Хлопай ресницами (Ресницы) — Братья Грим
+     → 17-bratya-grim-hlopay-resnitsami-Cm.txt
+18. [Gm ] Седьмой лепесток — Антон Токарев (Hi-Fi cover)
+     → 18-tokarev-sedmoy-lepestok-Gm.txt
+19. [Em ] Проститься — Uma2rman
+     → 19-uma2rman-prostitjsya-Em.txt
+20. [Am ] This Love — Maroon 5
+     → 20-maroon5-this-love-Am.txt
+21. [Dm ] Лететь (грустная) — Амега
+     → 21-amega-letet-Dm.txt
+22. [A  ] Луч солнца золотого — Муслим Магомаев
+     → 22-magomaev-luch-solntsa-zolotogo-A.txt
+23. [A  ] Эй, красотка — Владимир Кузьмин
+     → 23-kuzmin-ey-krasotka-A.txt
+24. [Am ] Señorita — Shawn Mendes & Camila Cabello
+     → 24-senorita-Am.txt
+25. [Am ] Я не отдам тебя никому — Руки Вверх!
+     → 25-ruki-vverh-ya-ne-otdam-Am.txt
+26. [D#m] Зеленоглазое такси — Михаил Боярский
+     → 26-boyarskiy-zelenoglazoe-taksi-D#m.txt
+27. [Eb ] Салют, Вера — Валерий Меладзе
+     → 27-meladze-salyut-vera-Eb.txt
+28. [Cm ] Билетик в кино — Иванушки International
+     → 28-ivanushki-biletik-v-kino-Cm.txt
+29. [Dm ] You're My Heart, You're My Soul — Modern Talking
+     → 29-modern-talking-youre-my-heart-Dm.txt
+30. [Fm ] Седая ночь — Юрий Шатунов / Ласковый май
+     → 30-shatunov-sedaya-noch-Fm.txt
+
+Всего песен: 30
